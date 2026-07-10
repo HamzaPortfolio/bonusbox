@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BonusBox</string>
+    <string name="title_activity_main">BonusBox</string>
+    <string name="package_name">com.earner.bonusbox</string>
+    <string name="custom_url_scheme">com.earner.bonusbox</string>
+</resources>
